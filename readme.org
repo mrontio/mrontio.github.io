@@ -1,0 +1,5 @@
+* My Website
+- Goals
+  - [ ] Basic details
+  - [ ] Streamlined way to create blogs and tutorials
+  - [ ] Wordcloud
